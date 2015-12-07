@@ -1,0 +1,14 @@
+[user]
+  name = Harvey Ball
+	email = me@harveyball.com
+[color]
+  ui = auto
+[core]
+  editor = vim
+  excludesfile = ~/.gitignore
+[merge]
+  tool = vimdiff
+  conflictstyle = diff3
+[mergetool]
+  prompt = false
+  keepBackup = false
